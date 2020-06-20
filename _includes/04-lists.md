@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Things I treasure the most:
+  - My Family
+  - Read
+  - Learn new things
